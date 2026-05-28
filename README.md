@@ -1,2 +1,2 @@
 # My-projects
-This section contain my work on technolgy
+This section contain my work on tech stuff
